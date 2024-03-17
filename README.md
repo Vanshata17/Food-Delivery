@@ -6,4 +6,5 @@ the features that contribute most to the food delivery time based on our analysi
 -ratings of the delivery partner
 -distance between the restaurant and the delivery location
 
-I have trained a Machine Learning model using an LSTM neural network model for the task of food delivery time prediction
+I have trained a Machine Learning model using an LSTM neural network model for the task of food delivery time prediction. In machine learning tasks such as time series forecasting or sequence prediction, capturing and modeling temporal dependencies is crucial for making accurate predictions. Models like LSTM (Long Short-Term Memory) and other recurrent neural networks (RNNs) are specifically designed to handle temporal dependencies by retaining information from past time steps and incorporating it into predictions for future time steps.There may be a temporal dependency between the time taken for a delivery and the time of day, as delivery times may vary depending on traffic conditions during different times of the day.
+Delivery times for orders placed during peak hours may be influenced by the number of orders in the queue and the availability of delivery partners, leading to temporal dependencies between order volume and delivery times.
